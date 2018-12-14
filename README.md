@@ -1,5 +1,5 @@
 # CMSC-176---DL-MP
-Reproduction of the implementation of CGAN using Fashion MNIST dataset
+Reproduction of the implementation of CGAN using Fashion MNIST dataset on TensorFlow
 
 #Source code and dataset 
 Source of CGAN taken from https://github.com/wiseodd/generative-models
