@@ -7,4 +7,11 @@ Fashion MNIST downloaded from https://github.com/zalandoresearch/fashion-mnist
 
 #NOTE
 This repository aims  to reproduce results  using the same source code by Augustinus Kristiadi with a different dataset, which is the Fashion MNIST.
+
+#Requirements
+
+1. Python
+2. Numpy
+3. Tensorflow
+
   
